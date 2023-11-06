@@ -1,0 +1,22 @@
+.topheight{
+  height: 549px;
+}
+.heding{
+  font-size: 28px;
+}
+.dummypra{
+  font-size: 18px;
+  font-weight: 500;
+  color: #1D2226 !important;
+  opacity: 0.6;
+}
+.btnstyle{
+  margin-top: 29px !important; 
+  background: #6C25FF !important;
+}
+.btnRegistered{
+  background: #6C25FF4B 0% 0% no-repeat !important;
+  color: #1D2226 !important;
+  opacity: 1 !important;
+  margin-top: 10px;
+}
